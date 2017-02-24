@@ -5,11 +5,11 @@ I created one class called Calculator, where I made four methods. After this I m
 
 # Feedback
 
-* The class Calculator is perfect. It has all themethods that were specified in the assignment. One improvement that could have been done in  
-  the divide method would have been to check if the denomitor is zero, then some error is displayed on theconsole saying for example -   
-  "Cannot   divide by zero". Apart from that everythng is perfect n  the Calculator class.  
+* The class Calculator is perfect. It has all the methods that were specified in the assignment. One improvement that could have been done in
+  the divide method would have been to check if the denomitor is zero, then some error is displayed on the console saying for example -   
+  "Cannot divide by zero". Apart from that everythng is perfect in the Calculator class.  
     
-* In the test class, from next time, try to input numbers in the methods that they can work if I run the test class. More info on this in the   
+* In the test class, from next time, try to input numbers in the methods so that they can work if I run the test class. More info on this in the   
   next session.
     
     
