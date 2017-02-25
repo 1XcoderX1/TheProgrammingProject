@@ -5,6 +5,7 @@ I created one class called Calculator, where I made four methods. After this I m
 
 # Feedback
 
+## Marks: 10/10
 * The class Calculator is perfect. It has all the methods that were specified in the assignment. One improvement that could have been done in
   the divide method would have been to check if the denomitor is zero, then some error is displayed on the console saying for example -   
   "Cannot divide by zero". Apart from that everythng is perfect in the Calculator class.  
