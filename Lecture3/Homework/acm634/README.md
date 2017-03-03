@@ -1,21 +1,30 @@
-# Homework: Lecture 3.
+# Marking: 
 
-## The first class I made was the Printer:
+1. As you have used BufferedReader I am going to mark this assignment in this way.
+    
+    I will mark your Printer solution as it is. But, thise marks will not be aded to your total score as you did not use the Reader as in the instructions. If you resubmit the homework before 5th March, midnight, with the FileReader, the score for that will be added to your total score.
+    
+    Marks for BufferedReader Attempt -
+    
+        Very good attempt at the exercise in this way. Making the approach easier. Perfect use of everything. 
+        30/30.
+    
+    
+## Marks: Part1
+    0/30
+------
 
-I did the following:
-I used BufferedReader to read the entire line from the text file.
-Then I used FileReader to read directly from the text file, which I also created (file.txt), and then I copied the path to the file.txt.
-After this, I made a "while" statement: while the line is not null, then it will read the line until the end of it. All of this was inside a try block.
-Afterwards, I caugth th exceptions triggerred.
-Finally, I made another try block, where i inserted an "if" statement, to check if the "reader" is not null and close it. This action triggerred an exception, so I caught it.
+2. The Calculator class works perfectly, and I am happy with how you approached the problem directly. But, if the user      types something else other than the listed operations, nothing happens. It would have been better if something like      "undefined input" would have been outputted to the user. Other than that, flawless.
 
-PS: I had to use Google to use the bufferdReader.
+## Marks: Part2
+    13/15
+-----
 
-### The second class I made was the Calculator1:
-
-At the beginnig I was a bit confused about how to aproach this exercise. So what I did was:
-
-I assigned three values to be equal to the first three arguments.
-
-Then I converted the strings into doubles (arg [1] and arg[2]). Then I made "if" and "else" statements, to check if the "operation" is equal to "sum"...
-And then I just prnted out the solutions depending on the operation.
+## Overall Feedback: 
+        
+        Good work. I will wait till the deadline for the first part.
+        
+        KEEP IT UP!
+        
+## Total Marks: 13/45
+    

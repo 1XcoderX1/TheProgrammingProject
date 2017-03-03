@@ -13,7 +13,7 @@ public class Printer {
 		
 		try {
 			
-			reader = new BufferedReader(new FileReader("\\Users\\andre\\workspace\\TheProgrammingProject\\Lecture3.Homework\\acm634\\file.txt"));
+			reader = new BufferedReader(new FileReader("/Users/merlin11/Desktop/TheProgrammingProject/Lecture3/Homework/acm634/file.txt"));
 			
 			String line = reader.readLine();
 
