@@ -11,7 +11,7 @@ Finally, I made another try block, where i inserted an "if" statement, to check 
 
 PS: I had to use Google to use the bufferdReader.
 
-### The second class I made was the Cslculator1:
+### The second class I made was the Calculator1:
 
 At the beginnig I was a bit confused about how to aproach this exercise. So what I did was:
 
