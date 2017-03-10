@@ -30,7 +30,7 @@ public class RunnerRun extends Thread implements Runner {
 
 					System.out.println(name + " is still running @" + status);
 
-					sleep(100);
+					sleep(500);
 
 				}
 
@@ -38,13 +38,13 @@ public class RunnerRun extends Thread implements Runner {
 
 					System.out.println(name + " is gaining speed and running @" + status);
 
-					sleep(100);
+					sleep(500);
 				}
 
 				else if (status < 5) {
 
 					System.out.println(name + " has lost his stamina and he quits.");
-					won = true;
+					break;
 
 				}
 

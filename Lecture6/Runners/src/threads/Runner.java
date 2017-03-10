@@ -7,5 +7,9 @@ public interface Runner {
 	public void stop();
 
 	public void fall();
+	
+	
+	Starter s = new Starter();
+	
 
 }

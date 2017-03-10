@@ -18,8 +18,10 @@ public class Starter {
 		fuga.start();
 
 		try {
+
 			Thread.sleep(1000);
 			Thread.interrupted();
+
 		} catch (InterruptedException e) {
 
 			System.out.println("Ender waved the flag");

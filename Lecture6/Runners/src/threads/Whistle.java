@@ -7,5 +7,7 @@ public class Whistle {
 		return "Whistle blown";
 	
 	}
+	
+	
 
 }
